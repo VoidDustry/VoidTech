@@ -1,0 +1,10 @@
+{
+  "name": "void-tech",
+  "displayName": "VoidTech",
+  "description": "Real world mod, add many things from real life.",
+  "author": "VoidDustry",
+  "hidden": false,
+  "java": false,
+  "version": "0.0.1",
+  "minGameVersion" 144.1
+}
